@@ -1,0 +1,2 @@
+include ':app', ':chat_library'
+rootProject.name='KChatView'
